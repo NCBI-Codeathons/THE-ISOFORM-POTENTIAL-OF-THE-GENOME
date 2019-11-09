@@ -18,8 +18,8 @@
 
 ### Zahin Islam 
 1. Pass through all species' fasta sequences into Blast for nucleotide alignment 
-* All data files copied into new folder "blastfasta" 
-* All files will be unzipped from .gz to .fasta since errors occured when running alignment 
+* All data files copied into new folder "fasta" 
+* All files were unzipped from gunzip to fasta files and BlastX was run 
 
 # Project 3
 ## Transcript conservation accross species
