@@ -20,6 +20,7 @@
 1. Pass through all species' fasta sequences into Blast for nucleotide alignment 
 * All data files copied into new folder "fasta" 
 * All files were unzipped from gunzip to fasta files and BlastX was run 
+* output will be tabular file 
 
 # Project 3
 ## Transcript conservation accross species
